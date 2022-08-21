@@ -1,0 +1,54 @@
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blanchedalmond;
+    font-weight: bold;
+    background-color:darkkhaki
+
+}
+
+.thumbnail {
+    height: 700px;
+    width: auto;
+}
+
+.ing{
+    color: gold;
+    background-color: cornflowerblue;
+}
+
+.sizzler {
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.equip {
+    color: gainsboro;
+    background-color: darkslategray;
+}
+
+
+p ul li {
+    font-weight:500;
+}
+
+.dir {
+    color: lawngreen;
+    background-color: brown;
+}
+
+h3 {
+    color: whitesmoke;
+    background-color: black;
+}
+
+.inglist{
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.beans {
+    font-size: 36px;
+    color: yellow;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
